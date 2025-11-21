@@ -7,7 +7,7 @@ _Para mas información: [Máquina de registro (Wikipedia)](https://es.wikipedia.
 
 ## Como usar
 
-Descarga el repositorio usando:
+Descarga el repositorio en tu computadora usando:
 ```bash
 git clone https://github.com/PolloVerde2/urm-python.git
 ```
@@ -15,6 +15,7 @@ A continuación, crea un archivo dentro de la carpeta `programas` con extensión
 
 Una vez creado el programa, ejecuta `run.py`:
 ```bash
+# Desde directrio/de/descarga/urm/
 python run.py
 ```
 

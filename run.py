@@ -80,3 +80,4 @@ if __name__ == "__main__":
     main()
 
     print("\nFin del programa. Hecho por: Demian Galindo Vazquez")
+    input("Presiona ENTER para salir.")
