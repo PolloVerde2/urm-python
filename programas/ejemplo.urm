@@ -1,0 +1,15 @@
+// Modelo de función f(m, n) = m*n
+// Hecho por: Demian Galindo Vazquez
+
+P(5, 5, 0, 0, 0) // Configuración inicial
+
+// Instrucciones
+J(2, 4, 5)
+S(3)
+S(4)
+J(1, 1, 1)
+Z(4)
+S(5)
+J(1, 5, 9)
+J(1, 1, 1)
+T(3, 1)

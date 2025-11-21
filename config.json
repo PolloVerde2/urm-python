@@ -1,0 +1,8 @@
+{
+    "max_iterations": 500,
+    "print_process": false,
+    "use_file_config": true,
+    "debug": false,
+    "search_in": "./",
+    "verbose": true
+}
