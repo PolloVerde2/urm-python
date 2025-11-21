@@ -23,6 +23,7 @@ Dentro del archivo `.urm` puedes escribir instrucciones, donde `n` es el registr
 - **S(n):** Cambia `rₙ` por `rₙ + 1`.
 - **T(m, n):** Cambia el registro `rₙ` por el valor de `rₘ`.
 - **J(m, n, q):** Si `rₘ = rₙ`, salta a la q-ésima instrucción, en caso contrario, pasa a la siguiente
+
 _Nota: solo se pueden asignar valores enteros >= 1_
 
 Es opcional, pero puedes incluir una primer instrucción `P(a₁, a₂, a₃, ...)` para proporcionar una configuración inicial. _Siempre_ deberá ser la primera y solo puedes poner una.
