@@ -15,7 +15,7 @@ A continuación, crea un archivo dentro de la carpeta `programas` con extensión
 
 Una vez creado el programa, ejecuta `run.py`:
 ```bash
-# Desde directrio/de/descarga/urm/
+# Desde directorio/de/descarga/urm/
 python run.py
 ```
 
