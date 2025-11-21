@@ -35,10 +35,10 @@ El programa termina cuando:
 
 ## Configuración
 Dentro del mismo directorio de `run.py`, se encuentra el archivo de configuración `config.json`, el cual se verá así:
-```json
+```jsonc
 {
 	"max_iterations":  500,   // Cantidad máxima de iteraciones
-	"print_process":  false,   // Imprime el registro en cada instrucción
+	"print_process":  false,  // Imprime el registro en cada instrucción
 	"use_file_config":  true, // Utiliza la conf. inicial proporcionada en el archivo
 	"debug":  false,          // Modo depurar, útil para diagnosticar problemas
 	"search_in":  "./",       // Directorio donde se buscarán programas .urm
