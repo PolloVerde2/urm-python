@@ -25,6 +25,9 @@ for file in files:
     if file.endswith('.urm'):
         list_program.append(file)
 
+# Ordenar lista de programas
+list_program.sort()
+
 # Program
 def main():
     # Imprimir lista de programas disponibles
